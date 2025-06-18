@@ -38,9 +38,9 @@ The tool checks for all of these and classifies passwords into **Weak**, **Moder
 ## 📂 File Structure
 
 PRODIGY_CS_03/  
-├── password_checker.py           # Main Python GUI application  
 ├── README.md                     # Project documentation  
-└── example.png                   # GUI screenshot (optional)
+├── example.png                   # GUI screenshot (optional)      
+└── password_checker.py           # Main Python GUI application  
 
 ---
 
