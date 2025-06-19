@@ -37,10 +37,12 @@ The tool checks for all of these and classifies passwords into **Weak**, **Moder
 
 ## 📂 File Structure
 
+```bash
 PRODIGY_CS_03/  
 ├── README.md                     # Project documentation  
 ├── example.png                   # GUI screenshot (optional)      
 └── password_checker.py           # Main Python GUI application  
+```
 
 ---
 
